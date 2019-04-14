@@ -4,7 +4,7 @@ Utilizes Python and OpenCV in order to find user-defined color ranges straight f
 
 ## Prerequisites
 
-* [Python 2.7](https://www.python.org/download/releases/2.7/)
+* [Python 3](https://www.python.org/download/releases/3.7/)
 * [OpenCV](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_setup/py_table_of_contents_setup/py_table_of_contents_setup.html#py-table-of-content-setup)
 * [Numpy](https://www.scipy.org/install.html)
 * [MSS](https://pypi.python.org/pypi/mss/3.1.1)
