@@ -1,5 +1,4 @@
 from guizero import App, Text, PushButton, Box, TextBox
-
 import random
 
 item_list = []
